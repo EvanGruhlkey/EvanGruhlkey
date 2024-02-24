@@ -27,7 +27,6 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
  
 <br/>
 
@@ -42,7 +41,7 @@
 
 <p align="left">
 <a href="https://evangruhlkey.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.evangruhlkey.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/evangruhlkey/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/evan.gruhlkey_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="gruhlkeyevan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/evangruhlkey/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-evangruhlkey-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/evan.gruhlkey_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-evan.gruhlkey_-blue?style=flat-square&logo=instagram"></a>
+<a href="gruhlkeyevan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gruhlkeyevan@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
