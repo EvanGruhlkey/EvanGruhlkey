@@ -30,9 +30,6 @@
  
 <br/>
 
-<a href="https://github.com/evangruhlkey">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evangruhlkey&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
