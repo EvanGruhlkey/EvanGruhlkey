@@ -1,7 +1,6 @@
 
 <h2> Hey there! I'm Evan.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;Looking to build the next big thing </h3>
 
 
  
